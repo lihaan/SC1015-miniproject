@@ -5,11 +5,11 @@ Ong Li Han
 
  
 # Data sources
-Resale flats: https://data.gov.sg/dataset/resale-flat-prices
-MRT stations: https://github.com/hxchua/datadoubleconfirm/blob/master/datasets/mrtsg.csv
-Hospitals: https://www.healthhub.sg/directory/hospitals
-Schools: https://data.gov.sg/dataset/school-directory-and-information
-OneMap API: https://www.onemap.gov.sg/docs/
+- Resale flats: https://data.gov.sg/dataset/resale-flat-prices
+- MRT stations: https://github.com/hxchua/datadoubleconfirm/blob/master/datasets/mrtsg.csv
+- Hospitals: https://www.healthhub.sg/directory/hospitals
+- Schools: https://data.gov.sg/dataset/school-directory-and-information
+- OneMap API: https://www.onemap.gov.sg/docs/
 
 # Purpose
 - Is the price of this flat listing reasonable? Ie. Can we predict the price of a flat accurately, which we can then use to decide whether a flat listing is reasonable?
@@ -24,4 +24,4 @@ OneMap API: https://www.onemap.gov.sg/docs/
 5. Associate each flat addresss with each unique flat listing
 6. Analyse the data!
 
-
+## Parts 1-3 were done in Cleaning.ipynb, the rest were done in the main analysis notebook
